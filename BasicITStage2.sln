@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Abst_Interfaces", "OOPLes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Generics", "OOPLesson5\5.Generics.csproj", "{AD57D3B0-8549-456F-93FF-42A8A78F14AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.DataStructures", "OOPLesson6\6.DataStructures.csproj", "{FAF7CCF3-0C17-4183-BEC9-B1914C930232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.Collections", "OOPLesson6\6.Collections.csproj", "{FAF7CCF3-0C17-4183-BEC9-B1914C930232}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Exceptions", "OOPLesson7\7.Exceptions.csproj", "{16FF3FDE-73E4-4103-9604-7311CA972CD9}"
 EndProject
@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.Delegates", "OOPLesson9\9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z10.LambdaExpressions_Reflection_Attributes", "10.LambdaExpressions_Reflection_Attributes\z10.LambdaExpressions_Reflection_Attributes.csproj", "{8758C1F7-31FF-48EB-BD71-9FBC2CD97B37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z11.Events", "z11.Events\z11.Events.csproj", "{874697C2-22B1-46D5-87BE-842B09F1469B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z11.Events", "z11.Events\z11.Events.csproj", "{874697C2-22B1-46D5-87BE-842B09F1469B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Abstraction
+namespace Abstraction_Interfaces
 {
     //Interface--------------
     interface IMovable
